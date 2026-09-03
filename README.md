@@ -5,19 +5,7 @@
 #### East West University
 This repository contains our semester project focused on the automated counting and detection of dental structures using high-resolution X-ray imagery. We compare the effectiveness of the latest object detection models against self-supervised and semi-supervised learning techniques.
 
-```css
-                  Team Members (Group H)
-```
-
-```css
-        |-------------------------|------------------|
-        |          Name           |     Student ID   |
-        |-------------------------|------------------|
-        |   Nafisa Saiyara Aranti |   2022-1-60-060  |
-        |    Rebeka Sultana Dina  |   2022-3-60-027  |
-        |       Lamiya Akter      |   2022-2-60-055  |
-        |-------------------------|------------------|
-```
+---
 
 ## Project Objective: Object Counting
 
